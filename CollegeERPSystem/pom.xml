@@ -64,6 +64,12 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     <artifactId>itextpdf</artifactId>
     <version>5.5.13.3</version>
 </dependency>
-
+           
+<dependency>
+    <groupId>org.postgresql</groupId>
+    <artifactId>postgresql</artifactId>
+    <version>42.7.7</version>
+</dependency>
+           
 </dependencies>
 </project>
